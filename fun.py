@@ -1,0 +1,8 @@
+data = input('Em que dia você nasceu?')
+mês = input('E qual foi o mês?')
+ano = input('E o ano?')
+print('Então você nasceu no dia', data, 'de', mês, 'de', ano, '? Como você é velho!')
+comida = input('E qual é a sua comida favorita?')
+print('Nossa,', comida, 'é mesmo muito gostoso, mas eu prefiro sucrilhos com leite hahaha')
+nome = input('Desculpa, eu esqueci de perguntar o seu nome. Como você se chama?')
+print('Foi um prazer te conhecer,', nome)
